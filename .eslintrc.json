@@ -21,5 +21,13 @@
         "@typescript-eslint"
     ],
     "rules": {
+        // Auto-sort imports
+    "sort-imports": "off",
+    "import/order": "off",
+  
+    // Using a type system makes it safe enough to spread props
+    "react/jsx-props-no-spreading": "off"
     }
 }
+//Plz Check 
+// https://github.com/typescript-eslint/typescript-eslint/blob/master/.eslintrc.js

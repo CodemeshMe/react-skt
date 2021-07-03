@@ -1,0 +1,4 @@
+* text=auto eol=lf
+*.ts    eol=lf
+*.tsx   eol=lf
+*.json  eol=lf
